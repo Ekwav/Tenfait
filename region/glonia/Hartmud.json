@@ -1,0 +1,7 @@
+{
+  "type":"city",
+  "name":"Hardmud",
+  "description":"A lovely little city next to the sea",
+  "continent":"glonia",
+  "position":[100,100]
+}
